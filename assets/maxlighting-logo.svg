@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 510 120" role="img" aria-labelledby="title desc">
+  <title id="title">MAXLIGHTING</title>
+  <desc id="desc">A warm gas lamp beside the MAXLIGHTING wordmark.</desc>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M24 43C24 19 38 8 59 8s35 11 35 35" stroke="#f2a93b" stroke-width="5"/>
+    <path d="M30 45h58l-8-14H38z" fill="#f3eddf" stroke="#f3eddf" stroke-width="2"/>
+    <path d="M37 45h44l-5 44H42z" stroke="#f3eddf" stroke-width="5"/>
+    <path d="M43 51h32l-4 32H47z" fill="#f2a93b" fill-opacity=".17" stroke="#f2a93b" stroke-width="2"/>
+    <path d="M53 78c-2-8 4-12 7-19 7 8 10 13 5 20-3 5-10 5-12-1z" fill="#f2a93b" stroke="#f2a93b" stroke-width="2"/>
+    <path d="M34 91h50l8 14H26z" fill="#f3eddf" stroke="#f3eddf" stroke-width="2"/>
+    <path d="M21 108h76" stroke="#f2a93b" stroke-width="4"/>
+  </g>
+  <text x="120" y="70" fill="#f3eddf" font-family="Arial, Helvetica, sans-serif" font-size="43" font-weight="800" letter-spacing="5">MAX</text>
+  <text x="236" y="70" fill="#f2a93b" font-family="Arial, Helvetica, sans-serif" font-size="43" font-weight="800" letter-spacing="5">LIGHTING</text>
+  <text x="122" y="94" fill="#8fb7bd" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" letter-spacing="4">EVIDENCE BEFORE EXPLANATION</text>
+</svg>

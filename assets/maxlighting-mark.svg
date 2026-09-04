@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="title">
+  <title id="title">MAXLIGHTING lamp</title>
+  <rect width="120" height="120" rx="22" fill="#07151c"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M27 47c0-24 13-36 33-36s33 12 33 36" stroke="#f2a93b" stroke-width="5"/>
+    <path d="M32 48h56l-8-14H40z" fill="#f3eddf" stroke="#f3eddf" stroke-width="2"/>
+    <path d="M39 48h42l-5 43H44z" stroke="#f3eddf" stroke-width="5"/>
+    <path d="M45 54h30l-4 31H49z" fill="#f2a93b" fill-opacity=".16" stroke="#f2a93b" stroke-width="2"/>
+    <path d="M55 80c-2-8 4-12 7-19 7 8 9 13 5 20-4 5-10 5-12-1z" fill="#f2a93b" stroke="#f2a93b" stroke-width="2"/>
+    <path d="M36 93h48l8 14H28z" fill="#f3eddf" stroke="#f3eddf" stroke-width="2"/>
+  </g>
+</svg>
